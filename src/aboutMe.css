@@ -1,0 +1,49 @@
+.first-container {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.textGroup {
+  margin-top: 30%;
+  margin-left: 15%;
+  width: 90%;
+}
+
+.noLoopText {
+  font-size: calc(25px + 4vmin);
+}
+
+.loopText {
+  font-size: calc(25px + 4vmin);
+  font-weight: bold;
+}
+
+.column-container {
+  flex-flow: column;
+}
+
+.jamesPortrait {
+  align-self: flex-end;
+  flex-grow: 1;
+}
+
+.jamesPic {
+  width: 100%;
+}
+
+.second-container {
+  display: flex;
+  flex-flow: row nowrap;
+  margin-top: 12%;
+  margin-bottom: 18%;
+}
+
+.aboutMeTitle {
+  font-weight: bold;
+  margin-left: 25%;
+}
+
+.aboutMeText {
+  width: 50%;
+  margin-left: 5%;
+}

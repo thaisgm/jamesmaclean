@@ -1,0 +1,71 @@
+.PrideSlide1 {
+  /* The image used */
+  background-image: url("../images/PrideCondoms1.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center 75%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+}
+
+.PrideSlide2 {
+  /* The image used */
+  background-image: url("../images/PrideCondoms2.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+
+}
+
+.PrideSlide3 {
+  /* The image used */
+  background-image: url("../images/PrideCondoms3.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+}
+
+.PrideSlide4 {
+  /* The image used */
+  background-image: url("../images/PrideCondoms4.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+}
+
+
+.icon {
+  align-self: flex-end;
+  justify-content: flex-end;
+  margin-bottom: 5%;
+  margin-left: 0.25%;
+}
+
+.icon2 {
+  align-self: flex-end;
+  justify-content: flex-end;
+  margin-bottom: 5%;
+  margin-left: 0.25%;
+}

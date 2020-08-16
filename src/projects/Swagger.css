@@ -1,0 +1,57 @@
+.Slide1 {
+  /* The image used */
+  background-image: url("../images/Swagger4.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center 75%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+}
+
+.Slide2 {
+  /* The image used */
+  background-image: url("../images/Swagger2.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+
+}
+
+.Slide4 {
+  /* The image used */
+  background-image: url("../images/Swagger3.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+}
+
+
+.icon {
+  align-self: flex-end;
+  justify-content: flex-end;
+  margin-bottom: 5%;
+  margin-left: 0.25%;
+}
+
+.icon2 {
+  align-self: flex-end;
+  justify-content: flex-end;
+  margin-bottom: 5%;
+  margin-left: 0.25%;
+}

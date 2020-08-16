@@ -1,0 +1,45 @@
+#contact-form {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  margin-top: 3.5%;
+  margin-bottom: 4.25%;
+  background-color: rgb(2,136,209, 0.75);
+  margin-left: 10%;
+  margin-right: 10%;
+  border-radius: 10px;
+}
+
+/* Add some margins for each label */
+#contact-form label {
+  margin: 20px 10px 5px 0;
+  color: white;
+  text-shadow: 1px 1px 2px #000000;
+}
+
+/* Style the input fields */
+#contact-form input {
+  vertical-align: middle;
+  margin: 5px 10px 5px 0;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 2px 2px;
+
+}
+
+#contact-form textarea {
+  box-shadow: 2px 2px;
+  width: 200%;
+  margin-left: -50%;
+}
+
+.btn {
+  margin-top: 5%;
+  margin-bottom: 2.5%;
+}
+
+
+/* style={{textAlign: "right", clear: "both", float:"left", marginRight:"12%", fontSize:'calc(8px + 2vmin)'}} */
+
+/* style={{marginLeft: '25%', marginTop: '5%'}} */
