@@ -17,7 +17,7 @@ class ContactMe extends React.Component{
     e.preventDefault();
     axios({
       method: "POST",
-      url:"https://james-maclean.com/send",
+      url:"http://localhost:3002/send",
       data:  this.state
     }).then((response)=>{
       if (response.data.status === 'success'){
