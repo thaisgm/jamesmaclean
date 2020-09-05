@@ -12,7 +12,7 @@ function AboutMe() {
         <div className="textGroup">
           <span className="noLoopText"> I'm </span>
           <TextLoop interval="3000">
-              <div className="loopText"> James Maclean</div>
+              <div className="loopText1"> James Maclean</div>
               <div className="loopText"> Innovative</div>
               <div className="loopText"> Resourceful</div>
               <div className="loopText"> Motivated</div>
