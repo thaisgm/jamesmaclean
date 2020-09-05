@@ -1,44 +1,65 @@
-.Slide1 {
-  /* The image used */
-  background-image: url("../images/Swagger4.jpg");
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center 75%;
-  background-repeat: no-repeat;
-  background-size: cover;
+.firstContainerSwagger {
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-color: black;
+  min-height: 100vh;
 }
 
-.Slide2 {
-  /* The image used */
-  background-image: url("../images/Swagger2.jpg");
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.titleRowSwagger {
   display: flex;
+  flex-direction: row !important;
+}
 
+.leftTitleSwagger {
+  display: flex;
+  flex-direction: column !important;
+
+}
+
+.titleSwaggerArticle {
+  width: 100%;
+  font-weight: bolder;
+  padding: 4%;
+  font-size: calc(15px + 6vmin);
+}
+
+.firstRowSwagger {
+  display: flex;
+  flex-direction: row !important;
+}
+
+.secondRowSwagger {
+  display: flex;
+  flex-direction: row;
+}
+
+.swaggerParagraph {
+  width: 50%;
+  padding: 2%;
+  font-size: calc(3px + 1.5vmin);
+}
+
+.Slide2Swag {
+  background-color: black;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swaggerslidepic {
+  width: 100%;
 }
 
 .Slide4 {
-  /* The image used */
-  background-image: url("../images/Swagger3.jpg");
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: black;
+  min-height: 100vh;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
