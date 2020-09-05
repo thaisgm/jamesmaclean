@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad187f35.chunk.css",
-    "main.js": "/static/js/main.05557555.chunk.js",
-    "main.js.map": "/static/js/main.05557555.chunk.js.map",
+    "main.css": "/static/css/main.7571e5fa.chunk.css",
+    "main.js": "/static/js/main.aff8dcdf.chunk.js",
+    "main.js.map": "/static/js/main.aff8dcdf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e69abcef.js",
     "runtime-main.js.map": "/static/js/runtime-main.e69abcef.js.map",
     "static/css/2.d9b4ba89.chunk.css": "/static/css/2.d9b4ba89.chunk.css",
     "static/js/2.47840e7d.chunk.js": "/static/js/2.47840e7d.chunk.js",
     "static/js/2.47840e7d.chunk.js.map": "/static/js/2.47840e7d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.51b3f9b764301da6b9a21f454b78c418.js": "/precache-manifest.51b3f9b764301da6b9a21f454b78c418.js",
+    "precache-manifest.386e74ef552f17dec355ef8df00c0748.js": "/precache-manifest.386e74ef552f17dec355ef8df00c0748.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9b4ba89.chunk.css.map": "/static/css/2.d9b4ba89.chunk.css.map",
-    "static/css/main.ad187f35.chunk.css.map": "/static/css/main.ad187f35.chunk.css.map",
+    "static/css/main.7571e5fa.chunk.css.map": "/static/css/main.7571e5fa.chunk.css.map",
     "static/js/2.47840e7d.chunk.js.LICENSE.txt": "/static/js/2.47840e7d.chunk.js.LICENSE.txt",
     "static/media/BETLogo.png": "/static/media/BETLogo.6b4cf4ee.png",
     "static/media/CrunchLogo2.png": "/static/media/CrunchLogo2.5f812821.png",
@@ -31,14 +31,14 @@
     "static/media/Swagger.css": "/static/media/Swagger4.0732a0b3.jpg",
     "static/media/YMCALogo.png": "/static/media/YMCALogo.f8bca34b.png",
     "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/App.css": "/static/media/swaggerBackground2.d36d5a82.jpg",
-    "static/media/contactMe.css": "/static/media/galaxyBackground.974b38e3.jpg"
+    "static/media/contactMe.css": "/static/media/galaxyBackground.974b38e3.jpg",
+    "static/media/App.css": "/static/media/swaggerBackground2.d36d5a82.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e69abcef.js",
     "static/css/2.d9b4ba89.chunk.css",
     "static/js/2.47840e7d.chunk.js",
-    "static/css/main.ad187f35.chunk.css",
-    "static/js/main.05557555.chunk.js"
+    "static/css/main.7571e5fa.chunk.css",
+    "static/js/main.aff8dcdf.chunk.js"
   ]
 }
