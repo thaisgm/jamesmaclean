@@ -8,7 +8,7 @@ function ComicCon() {
       <h3 style = {{'marginTop': '5%', 'textAlign': 'center'}}>ComicCon 2019 - <a href="www.Ilovestanlee.com">Stan Lee Forever</a></h3>
         <ReactPlayer
           url="https://www.youtube.com/watch?v=odzGo-RdrFY"
-          width="125vh"
+          width="70%"
           height='70vh'
           style={{'marginLeft': '15%', 'marginTop':'3%'}}
 

@@ -92,6 +92,7 @@ function Experience(){
           <div className="firstRowTitleHOME">Comic-Con and Stan Lee</div>
           <LinkContainer to="/comiccon"><Button variant="link">View the Project</Button></LinkContainer>
         </div>
+
         <div className="secondRowHOME">
           <div className="firstRowTitleHOME">Swagger Magazine</div>
           <LinkContainer to="/swagger"><Button variant="link">View the Project</Button></LinkContainer>
