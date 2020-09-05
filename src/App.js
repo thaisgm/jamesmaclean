@@ -96,7 +96,7 @@ function Navigation(){
 function Experience(){
   return (
     <div>
-    <h2 style={{marginTop: "25%"}}> Site construction delayed due to Covid-19 </h2>
+    <h2 style={{marginTop: "25%"}}> Site construction delayed due to Covid-19. Coming soon!</h2>
     </div>
   )
 }
