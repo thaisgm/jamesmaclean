@@ -25,11 +25,11 @@
 }
 
 .noLoopText {
-  font-size: calc(30px + 4vmin);
+  font-size: calc(28px + 4vmin);
 }
 
 .loopText {
-  font-size: calc(30px + 4vmin);
+  font-size: calc(28px + 4vmin);
   font-weight: bold;
 }
 
