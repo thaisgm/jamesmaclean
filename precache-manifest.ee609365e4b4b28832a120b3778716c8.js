@@ -1,43 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e896878e2a6719692fdc380cfb4e10e",
+    "revision": "635e87d22c150c0ada0ed937883ccca4",
     "url": "/index.html"
   },
   {
-    "revision": "5d235817d0572e557f41",
-    "url": "/static/css/2.59e4ae88.chunk.css"
+    "revision": "6a89e0d0ba55032d7ee6",
+    "url": "/static/css/2.d9b4ba89.chunk.css"
   },
   {
-    "revision": "102f8b190cbcbeb00f08",
-    "url": "/static/css/main.90cfe8e8.chunk.css"
+    "revision": "b082b2e93982f88423d7",
+    "url": "/static/css/main.59171b01.chunk.css"
   },
   {
-    "revision": "5d235817d0572e557f41",
-    "url": "/static/js/2.da7abc1f.chunk.js"
+    "revision": "6a89e0d0ba55032d7ee6",
+    "url": "/static/js/2.47840e7d.chunk.js"
   },
   {
     "revision": "8bb92c23487eb5c952e51992947cb95e",
-    "url": "/static/js/2.da7abc1f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.47840e7d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "102f8b190cbcbeb00f08",
-    "url": "/static/js/main.7dd52e76.chunk.js"
+    "revision": "b082b2e93982f88423d7",
+    "url": "/static/js/main.05557555.chunk.js"
   },
   {
     "revision": "216c2159c4ed80420be1",
     "url": "/static/js/runtime-main.e69abcef.js"
   },
   {
-    "revision": "1e97df06f0e2c2efbedac64b844be008",
-    "url": "/static/media/AwardsLogo2.1e97df06.jpg"
-  },
-  {
     "revision": "6b4cf4eef5aacb844b35914bd9d75fbc",
     "url": "/static/media/BETLogo.6b4cf4ee.png"
-  },
-  {
-    "revision": "5862e217e105b337b4373e3a969d667a",
-    "url": "/static/media/ComicConLogo6.5862e217.jpg"
   },
   {
     "revision": "5f8128219752918173581e484325dbc8",
@@ -52,10 +44,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/GoodwillLogo.79c196f4.jpg"
   },
   {
-    "revision": "6018328b70f950d3d57457f4175fc135",
-    "url": "/static/media/HSNLogo2.6018328b.jpg"
-  },
-  {
     "revision": "75471c1035d055cf54c806dbac7b778d",
     "url": "/static/media/IdemitsuLogo.75471c10.png"
   },
@@ -64,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/JMLogo.445cfe59.png"
   },
   {
-    "revision": "1405ea5d7fa2de99baa1ea20310364ab",
-    "url": "/static/media/JamesPortraitCartoon.1405ea5d.png"
+    "revision": "4bc66a833b4f1fe7eb83ce7831777c6c",
+    "url": "/static/media/JimmyPortrait.4bc66a83.png"
   },
   {
     "revision": "0b69ab3cacc32ec8749c1c3e32287b1b",
@@ -96,10 +84,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/PrideCondoms4.fd4f963f.png"
   },
   {
-    "revision": "07b7bce23c67a162c56a1abfa9f8a909",
-    "url": "/static/media/PrideLogo2.07b7bce2.jpg"
-  },
-  {
     "revision": "335fd84a634295f30cebb9e2eae0f1f5",
     "url": "/static/media/ProjectAngel.335fd84a.jpg"
   },
@@ -110,10 +94,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "74193c18e24609225247009c4337a51d",
     "url": "/static/media/ShowtimeLogo.74193c18.png"
-  },
-  {
-    "revision": "e36d06ded4f06d36c6ac0783f5ac2c32",
-    "url": "/static/media/StanLeeLogo5.e36d06de.jpg"
   },
   {
     "revision": "dd624f291ef7f052b03f97ce7d49e9c0",
@@ -128,10 +108,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Swagger4.0732a0b3.jpg"
   },
   {
-    "revision": "37b608d20f034db8b6d91977bab6d23f",
-    "url": "/static/media/SwaggerLogo2.37b608d2.jpg"
-  },
-  {
     "revision": "f8bca34b2a14f384994d2fbc4986cac1",
     "url": "/static/media/YMCALogo.f8bca34b.png"
   },
@@ -144,7 +120,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/arrow_right.8ef6a08c.svg"
   },
   {
+    "revision": "98e284131f4825ac7967c7eb1eb5d44e",
+    "url": "/static/media/awardsBackground2.98e28413.jpg"
+  },
+  {
     "revision": "974b38e38d65ee3a633df943b4227405",
     "url": "/static/media/galaxyBackground.974b38e3.jpg"
+  },
+  {
+    "revision": "212e3c05b597147fe089ea012dfec005",
+    "url": "/static/media/prideBackground2.212e3c05.jpg"
+  },
+  {
+    "revision": "4e30e92e41d010874ea3e401306edb0e",
+    "url": "/static/media/spiderManBackground.4e30e92e.jpg"
+  },
+  {
+    "revision": "d36d5a829f1b541d4c5d44a67beb26d5",
+    "url": "/static/media/swaggerBackground2.d36d5a82.jpg"
   }
 ]);
