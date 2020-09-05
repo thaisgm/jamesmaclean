@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.73a2dccf.chunk.css",
-    "main.js": "/static/js/main.bf31dd40.chunk.js",
-    "main.js.map": "/static/js/main.bf31dd40.chunk.js.map",
+    "main.css": "/static/css/main.e658dc8c.chunk.css",
+    "main.js": "/static/js/main.968372cb.chunk.js",
+    "main.js.map": "/static/js/main.968372cb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e69abcef.js",
     "runtime-main.js.map": "/static/js/runtime-main.e69abcef.js.map",
-    "static/css/2.840dafd7.chunk.css": "/static/css/2.840dafd7.chunk.css",
-    "static/js/2.ccb6e15d.chunk.js": "/static/js/2.ccb6e15d.chunk.js",
-    "static/js/2.ccb6e15d.chunk.js.map": "/static/js/2.ccb6e15d.chunk.js.map",
+    "static/css/2.d9b4ba89.chunk.css": "/static/css/2.d9b4ba89.chunk.css",
+    "static/js/2.98a741f0.chunk.js": "/static/js/2.98a741f0.chunk.js",
+    "static/js/2.98a741f0.chunk.js.map": "/static/js/2.98a741f0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.25544bee4e96361af7264900eb578a9f.js": "/precache-manifest.25544bee4e96361af7264900eb578a9f.js",
+    "precache-manifest.3b9db86ac8f0cf7951fa21dfacecb3f8.js": "/precache-manifest.3b9db86ac8f0cf7951fa21dfacecb3f8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.840dafd7.chunk.css.map": "/static/css/2.840dafd7.chunk.css.map",
-    "static/css/main.73a2dccf.chunk.css.map": "/static/css/main.73a2dccf.chunk.css.map",
-    "static/js/2.ccb6e15d.chunk.js.LICENSE.txt": "/static/js/2.ccb6e15d.chunk.js.LICENSE.txt",
+    "static/css/2.d9b4ba89.chunk.css.map": "/static/css/2.d9b4ba89.chunk.css.map",
+    "static/css/main.e658dc8c.chunk.css.map": "/static/css/main.e658dc8c.chunk.css.map",
+    "static/js/2.98a741f0.chunk.js.LICENSE.txt": "/static/js/2.98a741f0.chunk.js.LICENSE.txt",
     "static/media/AwardsLogo2.jpg": "/static/media/AwardsLogo2.1e97df06.jpg",
     "static/media/BETLogo.png": "/static/media/BETLogo.6b4cf4ee.png",
     "static/media/ComicConLogo6.jpg": "/static/media/ComicConLogo6.5862e217.jpg",
@@ -39,9 +39,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e69abcef.js",
-    "static/css/2.840dafd7.chunk.css",
-    "static/js/2.ccb6e15d.chunk.js",
-    "static/css/main.73a2dccf.chunk.css",
-    "static/js/main.bf31dd40.chunk.js"
+    "static/css/2.d9b4ba89.chunk.css",
+    "static/js/2.98a741f0.chunk.js",
+    "static/css/main.e658dc8c.chunk.css",
+    "static/js/main.968372cb.chunk.js"
   ]
 }
