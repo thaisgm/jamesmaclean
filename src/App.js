@@ -102,9 +102,14 @@ function Experience(){
           <LinkContainer to="/pride"><Button variant="link">View the Project</Button></LinkContainer>
         </div>
         <div className="fourthRowHOME">
+          <div className="firstRowTitleHOME">Home Shopping Network</div>
+          <LinkContainer to="/homeshoppingnetwork"><Button variant="link">View the Project</Button></LinkContainer>
+        </div>
+        <div className="fifthRowHOME">
           <div className="firstRowTitleHOME">Awards Shows</div>
           <LinkContainer to="/awardshows"><Button variant="link">View the Project</Button></LinkContainer>
         </div>
+
       </div>
       <div className="ExperiencePage2">
       <h1 className="clientsTitle"> Additional Clients...</h1>
