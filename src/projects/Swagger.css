@@ -20,9 +20,9 @@
 }
 
 .titleSwaggerArticle {
-  width: 100%;
+  width: 50%;
   font-weight: bolder;
-  padding: 10%;
+  padding: 5%;
   font-size: calc(10px + 4vmin);
 }
 
