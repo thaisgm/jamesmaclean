@@ -1,39 +1,66 @@
-.App {
+.ExperiencePage1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.firstRowHOME {
+  background: url('./images/spiderManBackground.jpg') no-repeat center center fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  min-height: 25vh;
   text-align: center;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.firstRowTitleHOME {
   color: white;
+  font-size: calc(25px + 3vmin);
+  font-weight: bold;
+  margin-top: 2%;
 }
 
-.App-link {
-  color: #61dafb;
+.secondRowHOME {
+  background: url('./images/swaggerBackground2.jpg') no-repeat center center fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  min-height: 25vh;
+  text-align: center;
 }
 
-.firstContainer {
-  display: flex;
-  flex-direction: column;
+.thirdRowHOME {
+  background: url('./images/prideBackground2.jpg') no-repeat center center fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  min-height: 25vh;
+  text-align: center;
 }
 
-.firstRow {
-  display: flex;
-  flex-direction: row;
+.fourthRowHOME {
+  background: url('./images/awardsBackground2.jpg') no-repeat center center fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  min-height: 25vh;
+  text-align: center;
 }
 
-.tile {
-  width: 33.33%;
-  height: 50vh;
-  border: 4px solid white;
-}
-
-.secondContainer {
+.ExperiencePage2 {
   display: flex;
   flex-direction: column;
   position:sticky;
@@ -42,6 +69,7 @@
 .clientsTitle {
   margin: 2%;
   font-family: "Arial Black";
+  text-align: center;
 }
 
 .firstRow-2 {
@@ -53,4 +81,8 @@
   width: 20%;
   padding: 2.5%;
   height: 27vh;
+}
+
+.footer {
+  text-align: center;
 }

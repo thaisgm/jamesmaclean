@@ -2,13 +2,13 @@ import React from 'react';
 import TextLoop from "react-text-loop";
 import './aboutMe.css';
 
-import JamesPic from './images/JamesPortraitCartoon.png';
+import JamesPic from './images/JimmyPortrait.png';
 
 function AboutMe() {
   return (
     <div className="App-About">
-      <div className="container">
-        <div className="firstRow">
+      <div className="containerABOUT">
+        <div className="firstRowABOUT">
         <div className="textGroup">
           <span className="noLoopText"> I'm </span>
           <TextLoop interval="3000">
@@ -20,9 +20,9 @@ function AboutMe() {
           <span className="noLoopText">. </span>
         </div>
         </div>
-        <div className="secondRowContainer">
+        <div className="secondRowContainerABOUT">
           <div className="secondRowA">
-            <p className="aboutMe">About Me</p>
+            <p className="aboutMeTEXT">About Me</p>
             <div>___________________</div>
           </div>
           <div className="secondRowB">
@@ -33,7 +33,7 @@ function AboutMe() {
             </p>
           </div>
         </div>
-        <div className="thirdRow">
+        <div className="thirdRowABOUT">
           <img className="jamesPic" src={JamesPic} alt=""/>
         </div>
       </div>

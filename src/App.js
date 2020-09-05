@@ -9,13 +9,6 @@ import Button from 'react-bootstrap/Button';
 
 import JMLogo from './images/JMLogo.png';
 
-import PrideLogo from './images/PrideLogo2.jpg';
-import StanLeeLogo from './images/StanLeeLogo5.jpg';
-import HSNLogo from './images/HSNLogo2.jpg';
-import SwaggerLogo from './images/SwaggerLogo2.jpg';
-import AwardsLogo from './images/AwardsLogo2.jpg';
-import ComicConLogo from './images/ComicConLogo6.jpg';
-
 import DisneyLogo from './logos/DisneyLogo.png';
 import ChateauLogo from './logos/ChateauLogo.png';
 import ProjectAngelLogo from './logos/ProjectAngel.jpg';
@@ -47,8 +40,6 @@ import HomeShopping from './projects/HomeShopping';
 import Swagger from './projects/Swagger';
 import Awards from './projects/Awards';
 import ComicCon from './projects/ComicCon';
-
-
 
 function App() {
   return (
@@ -96,7 +87,83 @@ function Navigation(){
 function Experience(){
   return (
     <div>
-    <h2 style={{marginTop: "25%"}}> Site construction delayed due to Covid-19. Coming soon!</h2>
+      <div className="ExperiencePage1">
+        <div className="firstRowHOME">
+          <div className="firstRowTitleHOME">Comic-Con and Stan Lee</div>
+          <LinkContainer to="/comiccon"><Button variant="link">View the Project</Button></LinkContainer>
+        </div>
+        <div className="secondRowHOME">
+          <div className="firstRowTitleHOME">Swagger Magazine</div>
+          <LinkContainer to="/swagger"><Button variant="link">View the Project</Button></LinkContainer>
+        </div>
+        <div className="thirdRowHOME">
+          <div className="firstRowTitleHOME">Pride Condoms Campaign</div>
+          <LinkContainer to="/pride"><Button variant="link">View the Project</Button></LinkContainer>
+        </div>
+        <div className="fourthRowHOME">
+          <div className="firstRowTitleHOME">Awards Shows</div>
+          <LinkContainer to="/awardshows"><Button variant="link">View the Project</Button></LinkContainer>
+        </div>
+      </div>
+      <div className="ExperiencePage2">
+      <h1 className="clientsTitle"> Additional Clients...</h1>
+        <div className="firstRow-2">
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={DisneyLogo} alt=""/>
+        </MDBView>
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={ShowtimeLogo} alt=""/>
+        </MDBView>
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={ProjectAngelLogo} alt=""/>
+        </MDBView>
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={BETLogo} alt=""/>
+        </MDBView>
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={LAHCLogo} alt=""/>
+        </MDBView>
+        </div>
+        <div className="firstRow-2">
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={IdemitsuLogo} alt=""/>
+        </MDBView>
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={YMCALogo} alt=""/>
+        </MDBView>
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={RedCrossLogo} alt=""/>
+        </MDBView>
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={TelscapeLogo} alt=""/>
+        </MDBView>
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={OMagLogo} alt=""/>
+        </MDBView>
+        </div>
+        <div className="firstRow-2">
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={ChateauLogo} alt=""/>
+        </MDBView>
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={EJLogo} alt=""/>
+        </MDBView>
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={GoodwillLogo} alt=""/>
+        </MDBView>
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={CrunchLogo} alt=""/>
+        </MDBView>
+        <MDBView className="tile-2" hover zoom>
+          <img className="img-fluid" src={PoscaLogo} alt=""/>
+        </MDBView>
+        </div>
+      </div>
+      <footer className="footer">
+        <h5>jamesmaclean@mac.com</h5>
+        <h12>&copy; {new Date().getFullYear()} Designed By <a href="https://www.kthaisgonzalez.com"> Thais Gonzalez </a></h12>
+        <p></p>
+      </footer>
     </div>
   )
 }
