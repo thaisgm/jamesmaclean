@@ -1,49 +1,43 @@
-.first-container {
+.container {
   display: flex;
-  flex-flow: row nowrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
-.textGroup {
-  margin-top: 30%;
-  margin-left: 15%;
-  width: 90%;
-}
-
-.noLoopText {
-  font-size: calc(25px + 4vmin);
-}
-
-.loopText {
-  font-size: calc(25px + 4vmin);
-  font-weight: bold;
-}
-
-.column-container {
-  flex-flow: column;
-}
-
-.jamesPortrait {
-  align-self: flex-end;
-  flex-grow: 1;
-}
-
-.jamesPic {
-  width: 100%;
-}
-
-.second-container {
+.secondRowContainer {
   display: flex;
-  flex-flow: row nowrap;
-  margin-top: 12%;
-  margin-bottom: 18%;
+  flex-direction: row;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
-.aboutMeTitle {
-  font-weight: bold;
-  margin-left: 25%;
+.secondRowA {
+  width: 40%;
+}
+
+.secondRowB {
+  width: 60%;
 }
 
 .aboutMeText {
-  width: 50%;
-  margin-left: 5%;
+  font-size: calc(3px + 1.5vmin);
+}
+
+.noLoopText {
+  font-size: calc(35px + 4vmin);
+}
+
+.loopText {
+  font-size: calc(35px + 4vmin);
+  font-weight: bold;
+}
+
+.aboutMe {
+  font-size: calc(15px + 3vmin);
+  font-weight: bold;
+}
+
+.jamesPic {
+  width: 70%;
 }
