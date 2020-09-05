@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.724550ff.chunk.css",
+    "main.css": "/static/css/main.03659054.chunk.css",
     "main.js": "/static/js/main.437e6977.chunk.js",
     "main.js.map": "/static/js/main.437e6977.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e69abcef.js",
@@ -9,10 +9,10 @@
     "static/js/2.ccb6e15d.chunk.js": "/static/js/2.ccb6e15d.chunk.js",
     "static/js/2.ccb6e15d.chunk.js.map": "/static/js/2.ccb6e15d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d325336c2cec89cdce40578b7df3c251.js": "/precache-manifest.d325336c2cec89cdce40578b7df3c251.js",
+    "precache-manifest.04f42e65ddcb80662e6200c9b7a8edd9.js": "/precache-manifest.04f42e65ddcb80662e6200c9b7a8edd9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.840dafd7.chunk.css.map": "/static/css/2.840dafd7.chunk.css.map",
-    "static/css/main.724550ff.chunk.css.map": "/static/css/main.724550ff.chunk.css.map",
+    "static/css/main.03659054.chunk.css.map": "/static/css/main.03659054.chunk.css.map",
     "static/js/2.ccb6e15d.chunk.js.LICENSE.txt": "/static/js/2.ccb6e15d.chunk.js.LICENSE.txt",
     "static/media/AwardsLogo2.jpg": "/static/media/AwardsLogo2.1e97df06.jpg",
     "static/media/BETLogo.png": "/static/media/BETLogo.6b4cf4ee.png",
@@ -41,7 +41,7 @@
     "static/js/runtime-main.e69abcef.js",
     "static/css/2.840dafd7.chunk.css",
     "static/js/2.ccb6e15d.chunk.js",
-    "static/css/main.724550ff.chunk.css",
+    "static/css/main.03659054.chunk.css",
     "static/js/main.437e6977.chunk.js"
   ]
 }
