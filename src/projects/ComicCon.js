@@ -1,11 +1,13 @@
 import React from 'react';
 import ReactPlayer from "react-player";
+import './ComicCon.css';
+
 
 
 function ComicCon() {
   return (
-    <div className="App">
-      <h3 style = {{'marginTop': '5%', 'textAlign': 'center'}}>ComicCon 2019 - <a href="www.Ilovestanlee.com">Stan Lee Forever</a></h3>
+    <div className="AppCOMIC">
+      <h3 className="comicTitle">ComicCon 2019 - <a href="www.Ilovestanlee.com" style={{color:'darkred'}}>Stan Lee Forever</a></h3>
         <ReactPlayer
           url="https://www.youtube.com/watch?v=odzGo-RdrFY"
           width="70%"
