@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.415aaa9c.chunk.css",
+    "main.css": "/static/css/main.61c3c1fe.chunk.css",
     "main.js": "/static/js/main.f51c5213.chunk.js",
     "main.js.map": "/static/js/main.f51c5213.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e69abcef.js",
@@ -9,10 +9,10 @@
     "static/js/2.bd1041fa.chunk.js": "/static/js/2.bd1041fa.chunk.js",
     "static/js/2.bd1041fa.chunk.js.map": "/static/js/2.bd1041fa.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a5414af25b199e42e0a03d1bfb8a10a7.js": "/precache-manifest.a5414af25b199e42e0a03d1bfb8a10a7.js",
+    "precache-manifest.33edf1c48ffce452b0b325b49f8a3f0f.js": "/precache-manifest.33edf1c48ffce452b0b325b49f8a3f0f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9b4ba89.chunk.css.map": "/static/css/2.d9b4ba89.chunk.css.map",
-    "static/css/main.415aaa9c.chunk.css.map": "/static/css/main.415aaa9c.chunk.css.map",
+    "static/css/main.61c3c1fe.chunk.css.map": "/static/css/main.61c3c1fe.chunk.css.map",
     "static/js/2.bd1041fa.chunk.js.LICENSE.txt": "/static/js/2.bd1041fa.chunk.js.LICENSE.txt",
     "static/media/BETLogo.png": "/static/media/BETLogo.6b4cf4ee.png",
     "static/media/CrunchLogo2.png": "/static/media/CrunchLogo2.5f812821.png",
@@ -43,7 +43,7 @@
     "static/js/runtime-main.e69abcef.js",
     "static/css/2.d9b4ba89.chunk.css",
     "static/js/2.bd1041fa.chunk.js",
-    "static/css/main.415aaa9c.chunk.css",
+    "static/css/main.61c3c1fe.chunk.css",
     "static/js/main.f51c5213.chunk.js"
   ]
 }
