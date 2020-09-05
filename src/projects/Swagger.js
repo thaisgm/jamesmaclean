@@ -23,10 +23,8 @@ class Swagger extends React.Component {
 function Slide1() {
   return (
       <div className="firstContainerSwagger">
-      <div className="titleRowSwagger">
         <h1 className="titleSwaggerArticle">James Maclean</h1>
         <h2 className="titleSwaggerArticle" style={{color:'orange'}}>What started the journey?</h2>
-      </div>
         <div className="firstRowSwagger">
           <p className="swaggerParagraph">
           When I was asked by Swagger Magazine to contribute to their September “Back on Track” issue I began to consider how far “pff track” I’d drifted. Born on the east coast/ Boston MA and growing up on a working family farm in Nova Scotia my course was filled with family, nature, and purpose. Returning to Boston/ MA for high school and college, here my life became a lot more exciting but certainly veered of the nature trail.
