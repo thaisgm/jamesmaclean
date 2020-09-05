@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff39fa087e9c56d23b3e0564d59393bc",
+    "revision": "097a17c9ca7e21b00ab1b191b0da0cb5",
     "url": "/index.html"
   },
   {
-    "revision": "2ae608b850c2615eb20c",
-    "url": "/static/css/2.d9b4ba89.chunk.css"
+    "revision": "5d235817d0572e557f41",
+    "url": "/static/css/2.59e4ae88.chunk.css"
   },
   {
-    "revision": "d9771e139aa8195346fb",
-    "url": "/static/css/main.e658dc8c.chunk.css"
+    "revision": "32fd844132e56af41a63",
+    "url": "/static/css/main.56e3e1d1.chunk.css"
   },
   {
-    "revision": "2ae608b850c2615eb20c",
-    "url": "/static/js/2.98a741f0.chunk.js"
+    "revision": "5d235817d0572e557f41",
+    "url": "/static/js/2.da7abc1f.chunk.js"
   },
   {
     "revision": "8bb92c23487eb5c952e51992947cb95e",
-    "url": "/static/js/2.98a741f0.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.da7abc1f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d9771e139aa8195346fb",
-    "url": "/static/js/main.968372cb.chunk.js"
+    "revision": "32fd844132e56af41a63",
+    "url": "/static/js/main.7dd52e76.chunk.js"
   },
   {
     "revision": "216c2159c4ed80420be1",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0b69ab3cacc32ec8749c1c3e32287b1b",
     "url": "/static/media/LAHCLogo.0b69ab3c.jpg"
+  },
+  {
+    "revision": "85748cabfe791c24aa6ada1a05dc625f",
+    "url": "/static/media/MonsterNoBckground.85748cab.png"
   },
   {
     "revision": "62f35f3b7dbc875dc1e54d3afb1dacaf",
@@ -138,5 +142,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8ef6a08cdc1154920165680a4edde771",
     "url": "/static/media/arrow_right.8ef6a08c.svg"
+  },
+  {
+    "revision": "974b38e38d65ee3a633df943b4227405",
+    "url": "/static/media/galaxyBackground.974b38e3.jpg"
   }
 ]);

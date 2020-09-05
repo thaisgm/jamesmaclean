@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.e658dc8c.chunk.css",
-    "main.js": "/static/js/main.968372cb.chunk.js",
-    "main.js.map": "/static/js/main.968372cb.chunk.js.map",
+    "main.css": "/static/css/main.56e3e1d1.chunk.css",
+    "main.js": "/static/js/main.7dd52e76.chunk.js",
+    "main.js.map": "/static/js/main.7dd52e76.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e69abcef.js",
     "runtime-main.js.map": "/static/js/runtime-main.e69abcef.js.map",
-    "static/css/2.d9b4ba89.chunk.css": "/static/css/2.d9b4ba89.chunk.css",
-    "static/js/2.98a741f0.chunk.js": "/static/js/2.98a741f0.chunk.js",
-    "static/js/2.98a741f0.chunk.js.map": "/static/js/2.98a741f0.chunk.js.map",
+    "static/css/2.59e4ae88.chunk.css": "/static/css/2.59e4ae88.chunk.css",
+    "static/js/2.da7abc1f.chunk.js": "/static/js/2.da7abc1f.chunk.js",
+    "static/js/2.da7abc1f.chunk.js.map": "/static/js/2.da7abc1f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3b9db86ac8f0cf7951fa21dfacecb3f8.js": "/precache-manifest.3b9db86ac8f0cf7951fa21dfacecb3f8.js",
+    "precache-manifest.a93567fd9acc5105b03341b36adb6e19.js": "/precache-manifest.a93567fd9acc5105b03341b36adb6e19.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.d9b4ba89.chunk.css.map": "/static/css/2.d9b4ba89.chunk.css.map",
-    "static/css/main.e658dc8c.chunk.css.map": "/static/css/main.e658dc8c.chunk.css.map",
-    "static/js/2.98a741f0.chunk.js.LICENSE.txt": "/static/js/2.98a741f0.chunk.js.LICENSE.txt",
+    "static/css/2.59e4ae88.chunk.css.map": "/static/css/2.59e4ae88.chunk.css.map",
+    "static/css/main.56e3e1d1.chunk.css.map": "/static/css/main.56e3e1d1.chunk.css.map",
+    "static/js/2.da7abc1f.chunk.js.LICENSE.txt": "/static/js/2.da7abc1f.chunk.js.LICENSE.txt",
     "static/media/AwardsLogo2.jpg": "/static/media/AwardsLogo2.1e97df06.jpg",
     "static/media/BETLogo.png": "/static/media/BETLogo.6b4cf4ee.png",
     "static/media/ComicConLogo6.jpg": "/static/media/ComicConLogo6.5862e217.jpg",
@@ -25,6 +25,7 @@
     "static/media/JMLogo.png": "/static/media/JMLogo.445cfe59.png",
     "static/media/JamesPortraitCartoon.png": "/static/media/JamesPortraitCartoon.1405ea5d.png",
     "static/media/LAHCLogo.jpg": "/static/media/LAHCLogo.0b69ab3c.jpg",
+    "static/media/MonsterNoBckground.png": "/static/media/MonsterNoBckground.85748cab.png",
     "static/media/OMagLogo2.png": "/static/media/OMagLogo2.62f35f3b.png",
     "static/media/UnitedMedical.css": "/static/media/PrideCondoms4.fd4f963f.png",
     "static/media/PrideLogo2.jpg": "/static/media/PrideLogo2.07b7bce2.jpg",
@@ -35,13 +36,14 @@
     "static/media/Swagger.css": "/static/media/Swagger4.0732a0b3.jpg",
     "static/media/SwaggerLogo2.jpg": "/static/media/SwaggerLogo2.37b608d2.jpg",
     "static/media/YMCALogo.png": "/static/media/YMCALogo.f8bca34b.png",
-    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg"
+    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/contactMe.css": "/static/media/galaxyBackground.974b38e3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e69abcef.js",
-    "static/css/2.d9b4ba89.chunk.css",
-    "static/js/2.98a741f0.chunk.js",
-    "static/css/main.e658dc8c.chunk.css",
-    "static/js/main.968372cb.chunk.js"
+    "static/css/2.59e4ae88.chunk.css",
+    "static/js/2.da7abc1f.chunk.js",
+    "static/css/main.56e3e1d1.chunk.css",
+    "static/js/main.7dd52e76.chunk.js"
   ]
 }
