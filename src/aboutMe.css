@@ -25,16 +25,16 @@
 }
 
 .noLoopText {
-  font-size: calc(35px + 4vmin);
+  font-size: calc(28px + 4vmin);
 }
 
 .loopText {
-  font-size: calc(35px + 4vmin);
+  font-size: calc(28px + 4vmin);
   font-weight: bold;
 }
 
 .aboutMe {
-  font-size: calc(15px + 3vmin);
+  font-size: calc(12px + 3vmin);
   font-weight: bold;
 }
 
