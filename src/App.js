@@ -167,7 +167,7 @@ function Experience(){
       </div>
       <footer className="footer">
         <h5>jamesmaclean@mac.com</h5>
-        <h12>&copy; {new Date().getFullYear()} Designed By <a href="https://www.kthaisgonzalez.com"> Thais Gonzalez </a></h12>
+        <h14>&copy; {new Date().getFullYear()} Designed By <a href="https://www.kthaisgonzalez.com"> Thais Gonzalez </a></h14>
         <p></p>
       </footer>
     </div>

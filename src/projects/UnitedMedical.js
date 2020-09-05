@@ -2,6 +2,10 @@ import React from 'react';
 import ReactPageScroller from "react-page-scroller";
 import './UnitedMedical.css';
 
+import Pride2 from '../images/pride2SMALL.png';
+import Pride3 from '../images/pride3SMALL.png';
+import Pride4 from '../images/pride4SMALL.png';
+
 
 class UnitedMedical extends React.Component {
   render(){
@@ -31,9 +35,7 @@ function PrideSlide1() {
 function PrideSlide2() {
   return (
     <div className="PrideSlide2">
-    <div className="icon2">
-      <i class="fa fa-arrow-circle-down fa-2x" aria-hidden="true" style={{color:'#e95301'}}></i>
-    </div>
+    <img className = "Pride2" src={Pride2} alt=""/>
     </div>
   )
 }
@@ -42,9 +44,7 @@ function PrideSlide2() {
 function PrideSlide3() {
   return (
     <div className="PrideSlide3">
-    <div className="icon">
-      <i class="fa fa-arrow-circle-down fa-2x fa-fw" aria-hidden="true" style={{color:'#e95301'}}></i>
-    </div>
+    <img className = "Pride3" src={Pride3} alt=""/>
     </div>
   )
 }
@@ -52,6 +52,7 @@ function PrideSlide3() {
 function PrideSlide4() {
   return (
     <div className="PrideSlide4">
+    <img className = "Pride4" src={Pride4} alt=""/>
     </div>
   )
 }

@@ -13,46 +13,37 @@
 }
 
 .PrideSlide2 {
-  /* The image used */
-  background-image: url("../images/PrideCondoms2.png");
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
+.Pride2 {
+  margin-top: 15%;
+  width: 50%;
 }
 
 .PrideSlide3 {
-  /* The image used */
-  background-image: url("../images/PrideCondoms3.png");
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
+.Pride3 {
+  margin-top: 15%;
+  width: 50%;
+}
+
+
 .PrideSlide4 {
-  /* The image used */
-  background-image: url("../images/PrideCondoms4.png");
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Pride4 {
+  margin-top: 15%;
+  width: 50%;
 }
 
 
