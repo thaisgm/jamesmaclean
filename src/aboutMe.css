@@ -36,6 +36,7 @@
 .loopText1 {
   font-size: calc(23px + 4vmin);
   font-weight: bold;
+  margin-top: 3px;
 }
 
 .aboutMe {
