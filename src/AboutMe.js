@@ -27,7 +27,7 @@ function AboutMe() {
           </div>
           <div className="secondRowB">
             <p className="aboutMeText">Born in Boston, raised on a family farm in heart of Nova Scotia and
-            creating collaboration ever since. With incredible perseverance comes amazing
+            inspiring collaboration ever since. With incredible perseverance comes amazing
             opportunity and we've had the great fortune to work with some of our countries
             best brands. Visit my experience page to see my favorites and ask for letters of recommendation!
             </p>
