@@ -1,77 +1,26 @@
 import React from 'react';
 import './contactMe.css';
-import axios from 'axios';
 
-class ContactMe extends React.Component{
+import Monster from './images/MonsterNoBckground.png';
 
-  constructor(props) {
-	super(props);
-	this.state = {
-  	name: '',
-  	email: '',
-  	message: ''
-	}
-  }
-
-  handleSubmit(e){
-    e.preventDefault();
-    axios({
-      method: "POST",
-      url:"https://james-maclean.com/send",
-      data:  this.state
-    }).then((response)=>{
-      if (response.data.status === 'success'){
-        alert("Message Sent.");
-        this.resetForm()
-      }else if(response.data.status === 'fail'){
-        alert("Message failed to send.")
-      }
-    })
-  }
-
-  resetForm(){
-
-     this.setState({name: "", email: "", message: ""})
-  }
-
-  render() {
-	return(
-  	<div className="Form-App">
-  	<form id="contact-form" onSubmit={this.handleSubmit.bind(this)} method="POST">
-  	<div className="form-group">
-      	<label htmlFor="name">Name</label>
-      	<input type="text" className="form-control" id="name" value={this.state.name} onChange={this.onNameChange.bind(this)} />
-  	</div>
-  	<div className="form-group">
-      	<label htmlFor="exampleInputEmail1">Email address</label>
-      	<input type="email" className="form-control" id="email" aria-describedby="emailHelp" value={this.state.email} onChange={this.onEmailChange.bind(this)} />
-  	</div>
-  	<div className="form-group">
-      	<label htmlFor="message">Message</label>
-      	<textarea className="form-control" rows="8" id="message" value={this.state.message} onChange={this.onMessageChange.bind(this)} />
-  	</div>
-  	<button type="submit" className="btn btn-success">Submit</button>
-  	</form>
-    <footer>
-      <h5>jamesmaclean@mac.com</h5>
-      <h12>&copy; {new Date().getFullYear()} Designed By <a href="https://www.kthaisgonzalez.com"> Thais Gonzalez </a></h12>
-      <p></p>
-    </footer>
-  	</div>
-	);
-  }
-
-  onNameChange(event) {
-	this.setState({name: event.target.value})
-  }
-
-  onEmailChange(event) {
-	this.setState({email: event.target.value})
-  }
-
-  onMessageChange(event) {
-	this.setState({message: event.target.value})
-  }
+function ContactMe() {
+  return (
+    <div className="app">
+      <div className="contactMePage">
+        <div className="firstRow">
+          <div className="firstRowText">I'd <span className="bolder">love</span> to hear from you! Don't worry...</div>
+        </div>
+        <div className="secondRow">
+          <img className="monster" src={Monster} alt=""/>
+        </div>
+        <div className="thirdRow">
+          <div className="emailText">Email me at <a href="mailto: jamesmaclean@mac.com" style={{color:"gold"}}>jamesmaclean@mac.com</a>. Let's get <span className="bolderI">creative</span>.</div>
+        </div>
+      </div>
+    </div>
+  )
 }
+
+
 
 export default ContactMe;

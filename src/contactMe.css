@@ -1,45 +1,42 @@
-#contact-form {
+.app {
+  background: url('./images/galaxyBackground.jpg') no-repeat center center fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 100vh;
+
+}
+
+.contactMePage {
   display: flex;
-  flex-flow: column wrap;
+  flex-direction: column;
   align-items: center;
-  margin-top: 3.5%;
-  margin-bottom: 4.25%;
-  background-color: rgb(2,136,209, 0.75);
-  margin-left: 10%;
-  margin-right: 10%;
-  border-radius: 10px;
-}
-
-/* Add some margins for each label */
-#contact-form label {
-  margin: 20px 10px 5px 0;
+  justify-content: center;
+  font-family: Trebuchet MS;
   color: white;
-  text-shadow: 1px 1px 2px #000000;
 }
 
-/* Style the input fields */
-#contact-form input {
-  vertical-align: middle;
-  margin: 5px 10px 5px 0;
-  padding: 10px;
-  background-color: #fff;
-  border: 1px solid #ddd;
-  box-shadow: 2px 2px;
-
+.firstRowText {
+  font-size: calc(25px + 3vmin);
+  margin-top: 3%;
+}
+.bolder {
+  font-weight: bolder;
 }
 
-#contact-form textarea {
-  box-shadow: 2px 2px;
-  width: 200%;
-  margin-left: -50%;
+.bolderI {
+  font-weight: bolder;
+  font-style: italic;
 }
 
-.btn {
+.monster {
+  width: 50%;
+}
+
+.emailText {
+  font-size: calc(15px + 3vmin);
   margin-top: 5%;
-  margin-bottom: 2.5%;
+  margin-bottom: 5%;
 }
-
-
-/* style={{textAlign: "right", clear: "both", float:"left", marginRight:"12%", fontSize:'calc(8px + 2vmin)'}} */
-
-/* style={{marginLeft: '25%', marginTop: '5%'}} */
