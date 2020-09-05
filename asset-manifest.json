@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ce63ca0.chunk.css",
-    "main.js": "/static/js/main.1e9d646a.chunk.js",
-    "main.js.map": "/static/js/main.1e9d646a.chunk.js.map",
+    "main.css": "/static/css/main.52b4f055.chunk.css",
+    "main.js": "/static/js/main.b9ad0aba.chunk.js",
+    "main.js.map": "/static/js/main.b9ad0aba.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e69abcef.js",
     "runtime-main.js.map": "/static/js/runtime-main.e69abcef.js.map",
     "static/css/2.840dafd7.chunk.css": "/static/css/2.840dafd7.chunk.css",
     "static/js/2.ccb6e15d.chunk.js": "/static/js/2.ccb6e15d.chunk.js",
     "static/js/2.ccb6e15d.chunk.js.map": "/static/js/2.ccb6e15d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1f5c0d203e3274e81c7c3200f050a11e.js": "/precache-manifest.1f5c0d203e3274e81c7c3200f050a11e.js",
+    "precache-manifest.825f40de125ce6e9662cb6ca847f5fe6.js": "/precache-manifest.825f40de125ce6e9662cb6ca847f5fe6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.840dafd7.chunk.css.map": "/static/css/2.840dafd7.chunk.css.map",
-    "static/css/main.9ce63ca0.chunk.css.map": "/static/css/main.9ce63ca0.chunk.css.map",
+    "static/css/main.52b4f055.chunk.css.map": "/static/css/main.52b4f055.chunk.css.map",
     "static/js/2.ccb6e15d.chunk.js.LICENSE.txt": "/static/js/2.ccb6e15d.chunk.js.LICENSE.txt",
     "static/media/AwardsLogo2.jpg": "/static/media/AwardsLogo2.1e97df06.jpg",
     "static/media/BETLogo.png": "/static/media/BETLogo.6b4cf4ee.png",
@@ -23,6 +23,7 @@
     "static/media/HSNLogo2.jpg": "/static/media/HSNLogo2.6018328b.jpg",
     "static/media/IdemitsuLogo.png": "/static/media/IdemitsuLogo.75471c10.png",
     "static/media/JMLogo.png": "/static/media/JMLogo.445cfe59.png",
+    "static/media/JamesPortraitCartoon.png": "/static/media/JamesPortraitCartoon.1405ea5d.png",
     "static/media/LAHCLogo.jpg": "/static/media/LAHCLogo.0b69ab3c.jpg",
     "static/media/OMagLogo2.png": "/static/media/OMagLogo2.62f35f3b.png",
     "static/media/UnitedMedical.css": "/static/media/PrideCondoms4.fd4f963f.png",
@@ -34,14 +35,13 @@
     "static/media/Swagger.css": "/static/media/Swagger4.0732a0b3.jpg",
     "static/media/SwaggerLogo2.jpg": "/static/media/SwaggerLogo2.37b608d2.jpg",
     "static/media/YMCALogo.png": "/static/media/YMCALogo.f8bca34b.png",
-    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/monster.png": "/static/media/monster.4dc827a9.png"
+    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e69abcef.js",
     "static/css/2.840dafd7.chunk.css",
     "static/js/2.ccb6e15d.chunk.js",
-    "static/css/main.9ce63ca0.chunk.css",
-    "static/js/main.1e9d646a.chunk.js"
+    "static/css/main.52b4f055.chunk.css",
+    "static/js/main.b9ad0aba.chunk.js"
   ]
 }

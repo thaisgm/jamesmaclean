@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43e6e4028a1791f29b49f84567ee457d",
+    "revision": "bc78637ab0addece0d3934b2516ff588",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.840dafd7.chunk.css"
   },
   {
-    "revision": "aaf6ee73d7478ba144c8",
-    "url": "/static/css/main.9ce63ca0.chunk.css"
+    "revision": "9ea4a70f6f443ba3d4c6",
+    "url": "/static/css/main.52b4f055.chunk.css"
   },
   {
     "revision": "3ddf3fab4543f2143566",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.ccb6e15d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aaf6ee73d7478ba144c8",
-    "url": "/static/js/main.1e9d646a.chunk.js"
+    "revision": "9ea4a70f6f443ba3d4c6",
+    "url": "/static/js/main.b9ad0aba.chunk.js"
   },
   {
     "revision": "216c2159c4ed80420be1",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "445cfe5980ab1164142678601bfef64d",
     "url": "/static/media/JMLogo.445cfe59.png"
+  },
+  {
+    "revision": "1405ea5d7fa2de99baa1ea20310364ab",
+    "url": "/static/media/JamesPortraitCartoon.1405ea5d.png"
   },
   {
     "revision": "0b69ab3cacc32ec8749c1c3e32287b1b",
@@ -134,9 +138,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8ef6a08cdc1154920165680a4edde771",
     "url": "/static/media/arrow_right.8ef6a08c.svg"
-  },
-  {
-    "revision": "4dc827a9f805a25e709b7c86661f243d",
-    "url": "/static/media/monster.4dc827a9.png"
   }
 ]);
