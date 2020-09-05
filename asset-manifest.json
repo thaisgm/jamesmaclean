@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.7571e5fa.chunk.css",
-    "main.js": "/static/js/main.aff8dcdf.chunk.js",
-    "main.js.map": "/static/js/main.aff8dcdf.chunk.js.map",
+    "main.css": "/static/css/main.a71c7818.chunk.css",
+    "main.js": "/static/js/main.30287c44.chunk.js",
+    "main.js.map": "/static/js/main.30287c44.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e69abcef.js",
     "runtime-main.js.map": "/static/js/runtime-main.e69abcef.js.map",
     "static/css/2.d9b4ba89.chunk.css": "/static/css/2.d9b4ba89.chunk.css",
-    "static/js/2.47840e7d.chunk.js": "/static/js/2.47840e7d.chunk.js",
-    "static/js/2.47840e7d.chunk.js.map": "/static/js/2.47840e7d.chunk.js.map",
+    "static/js/2.1818410d.chunk.js": "/static/js/2.1818410d.chunk.js",
+    "static/js/2.1818410d.chunk.js.map": "/static/js/2.1818410d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.386e74ef552f17dec355ef8df00c0748.js": "/precache-manifest.386e74ef552f17dec355ef8df00c0748.js",
+    "precache-manifest.5e95cde98326fca8709d05d6df8b1881.js": "/precache-manifest.5e95cde98326fca8709d05d6df8b1881.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9b4ba89.chunk.css.map": "/static/css/2.d9b4ba89.chunk.css.map",
-    "static/css/main.7571e5fa.chunk.css.map": "/static/css/main.7571e5fa.chunk.css.map",
-    "static/js/2.47840e7d.chunk.js.LICENSE.txt": "/static/js/2.47840e7d.chunk.js.LICENSE.txt",
+    "static/css/main.a71c7818.chunk.css.map": "/static/css/main.a71c7818.chunk.css.map",
+    "static/js/2.1818410d.chunk.js.LICENSE.txt": "/static/js/2.1818410d.chunk.js.LICENSE.txt",
     "static/media/BETLogo.png": "/static/media/BETLogo.6b4cf4ee.png",
     "static/media/CrunchLogo2.png": "/static/media/CrunchLogo2.5f812821.png",
     "static/media/DisneyLogo.png": "/static/media/DisneyLogo.ce39b8c4.png",
@@ -32,13 +32,14 @@
     "static/media/YMCALogo.png": "/static/media/YMCALogo.f8bca34b.png",
     "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
     "static/media/contactMe.css": "/static/media/galaxyBackground.974b38e3.jpg",
-    "static/media/App.css": "/static/media/swaggerBackground2.d36d5a82.jpg"
+    "static/media/App.css": "/static/media/swaggerBackground2.d36d5a82.jpg",
+    "static/media/ComicCon.css": "/static/media/stanBackground2.cdc49c50.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e69abcef.js",
     "static/css/2.d9b4ba89.chunk.css",
-    "static/js/2.47840e7d.chunk.js",
-    "static/css/main.7571e5fa.chunk.css",
-    "static/js/main.aff8dcdf.chunk.js"
+    "static/js/2.1818410d.chunk.js",
+    "static/css/main.a71c7818.chunk.css",
+    "static/js/main.30287c44.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7dc38b1bf2d5f5aa36317c4fc4a2166b",
+    "revision": "a7cc0611054bbc1b33f7c0eafc5420b1",
     "url": "/index.html"
   },
   {
-    "revision": "6a89e0d0ba55032d7ee6",
+    "revision": "015fe589bf82faad8f2a",
     "url": "/static/css/2.d9b4ba89.chunk.css"
   },
   {
-    "revision": "5472b46982e10f18d18f",
-    "url": "/static/css/main.7571e5fa.chunk.css"
+    "revision": "192d1b00837fd9634be2",
+    "url": "/static/css/main.a71c7818.chunk.css"
   },
   {
-    "revision": "6a89e0d0ba55032d7ee6",
-    "url": "/static/js/2.47840e7d.chunk.js"
+    "revision": "015fe589bf82faad8f2a",
+    "url": "/static/js/2.1818410d.chunk.js"
   },
   {
     "revision": "8bb92c23487eb5c952e51992947cb95e",
-    "url": "/static/js/2.47840e7d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1818410d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5472b46982e10f18d18f",
-    "url": "/static/js/main.aff8dcdf.chunk.js"
+    "revision": "192d1b00837fd9634be2",
+    "url": "/static/js/main.30287c44.chunk.js"
   },
   {
     "revision": "216c2159c4ed80420be1",
@@ -134,6 +134,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4e30e92e41d010874ea3e401306edb0e",
     "url": "/static/media/spiderManBackground.4e30e92e.jpg"
+  },
+  {
+    "revision": "cdc49c50771d1f04eb700e327742a99b",
+    "url": "/static/media/stanBackground2.cdc49c50.jpg"
   },
   {
     "revision": "d36d5a829f1b541d4c5d44a67beb26d5",
