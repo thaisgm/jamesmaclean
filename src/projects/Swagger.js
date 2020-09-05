@@ -24,10 +24,7 @@ function Slide1() {
   return (
       <div className="firstContainerSwagger">
       <div className="titleRowSwagger">
-        <div className="leftTitleSwagger">
-          <h1 className="titleSwaggerArticle">James Maclean</h1>
-          <p style={{color:'orange'}}>______________________________________________</p>
-        </div>
+        <h1 className="titleSwaggerArticle">James Maclean</h1>
         <h2 className="titleSwaggerArticle" style={{color:'orange'}}>What started the journey?</h2>
       </div>
         <div className="firstRowSwagger">

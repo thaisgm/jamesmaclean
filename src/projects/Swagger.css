@@ -13,17 +13,11 @@
   flex-direction: row !important;
 }
 
-.leftTitleSwagger {
-  display: flex;
-  flex-direction: column !important;
-
-}
-
 .titleSwaggerArticle {
-  width: 50%;
   font-weight: bolder;
-  padding: 5%;
-  font-size: calc(10px + 4vmin);
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: calc(15px + 4vmin);
 }
 
 .firstRowSwagger {
